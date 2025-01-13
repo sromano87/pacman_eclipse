@@ -4,10 +4,6 @@
 
 # VSCode
 .vscode
-.classpath
-.project
-.settings/
-
 
 # MacOS
 .DS_Store
