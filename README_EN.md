@@ -11,11 +11,4 @@ After completing a maze by engulfing all the dots, a new level starts.
 The program keeps track of the ranking of the best scores. The ranking can be visualized by pressing `ESC` on the keyboard.
 
 ## Instructions for Developers
-The project is based on *Maven*. Some useful instructions for developers follow.
-
-| To do this | Do this |
-| -----------|-----------|
-| To clean up the project | Type `mvn clean` |
-| To edit the source code | Edit a file, or more, in `src/main/java`.<br> The main file, *PacmanDF.java*, is located in the default package |
-| To compile the project | Type `mvn compile` |
-| To run the project | Type `mvn compile exec:java` |
+The project is a Eclipse-based.
